@@ -1,0 +1,9 @@
+{
+    "portNo": ":8080",
+    "db":{
+        "user":"admin1",
+        "password":"password",
+        "dbname":"admin",
+        "address":"localhost"
+    }
+}
